@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evangelho de Tomé, Eclesiastes, Provérbios e Sabedoria</title>
+    <description>Áudios gravados dos livros de Eclesiastes, Provérbios, Sabedoria e o Evangelho de Tomé.</description>
+    <link>https://yourusername.github.io/spotify-podcast/</link>
+    <language>pt-BR</language>
+    <itunes:image href="https://yourusername.github.io/spotify-podcast/cover.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Luis</itunes:author>
+    <itunes:owner>
+      <itunes:name>Luis</itunes:name>
+      <itunes:email>luis@example.com</itunes:email>
+    </itunes:owner>
+    <generator>Custom Python RSS Generator</generator>
+    
+    <!-- Podcast Episodes -->
+    <item>
+      <title>Eclesiastes - Capítulo 1</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 1.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%201.mp3" length="1005974" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%201.mp3</guid>
+      <itunes:duration>02:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 2</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 2.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%202.mp3" length="1837430" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%202.mp3</guid>
+      <itunes:duration>04:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 3</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 3.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%203.mp3" length="1218854" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%203.mp3</guid>
+      <itunes:duration>02:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 4</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 4.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%204.mp3" length="910406" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%204.mp3</guid>
+      <itunes:duration>02:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 5</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 5.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%205.mp3" length="1249862" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%205.mp3</guid>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 6</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 6.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%206.mp3" length="699662" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%206.mp3</guid>
+      <itunes:duration>01:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 7</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 7.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%207.mp3" length="1526198" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%207.mp3</guid>
+      <itunes:duration>03:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 8</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 8.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%208.mp3" length="1194182" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%208.mp3</guid>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 9</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 9.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%209.mp3" length="1418102" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%209.mp3</guid>
+      <itunes:duration>03:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 10</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 10.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2010.mp3" length="994862" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2010.mp3</guid>
+      <itunes:duration>02:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 11</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 11.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2011.mp3" length="629414" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2011.mp3</guid>
+      <itunes:duration>01:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eclesiastes - Capítulo 12</title>
+      <description>Áudio do arquivo ECLESIASTES CAPITULO 12.mp3.</description>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2012.mp3" length="918422" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/ECLESIASTES%20CAPITULO%2012.mp3</guid>
+      <itunes:duration>02:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 1</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_1.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_1.mp3" length="108686" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_1.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 2</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_2.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_2.mp3" length="148310" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_2.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 3</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_3.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_3.mp3" length="280622" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_3.mp3</guid>
+      <itunes:duration>00:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 4</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_4.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_4.mp3" length="159326" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_4.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 5</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_5.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_5.mp3" length="162350" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_5.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 6</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_6.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_6.mp3" length="242726" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_6.mp3</guid>
+      <itunes:duration>00:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 7</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_7.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_7.mp3" length="145910" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_7.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 8</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_8.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_8.mp3" length="230726" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_8.mp3</guid>
+      <itunes:duration>00:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 9</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_9.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_9.mp3" length="281462" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_9.mp3</guid>
+      <itunes:duration>00:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 10</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_10.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_10.mp3" length="102758" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_10.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 11</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_11.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_11.mp3" length="220238" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_11.mp3</guid>
+      <itunes:duration>00:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 12</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_12.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_12.mp3" length="178262" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_12.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 13</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_13.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_13.mp3" length="399518" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_13.mp3</guid>
+      <itunes:duration>00:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 14</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_14.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_14.mp3" length="283574" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_14.mp3</guid>
+      <itunes:duration>00:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 15</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_15.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_15.mp3" length="125486" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_15.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 16</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_16.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_16.mp3" length="224174" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_16.mp3</guid>
+      <itunes:duration>00:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 17</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_17.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_17.mp3" length="144542" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_17.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 18</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_18.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_18.mp3" length="203366" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_18.mp3</guid>
+      <itunes:duration>00:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 19</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_19.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_19.mp3" length="221030" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_19.mp3</guid>
+      <itunes:duration>00:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 20</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_20.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_20.mp3" length="200798" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_20.mp3</guid>
+      <itunes:duration>00:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 21</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_21.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_21.mp3" length="498302" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_21.mp3</guid>
+      <itunes:duration>01:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 22</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_22.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_22.mp3" length="370982" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_22.mp3</guid>
+      <itunes:duration>00:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 23</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_23.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_23.mp3" length="114038" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_23.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 24</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_24.mp3.</description>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_24.mp3" length="180734" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_24.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 25</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_25.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_25.mp3" length="111950" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_25.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 26</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_26.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_26.mp3" length="176270" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_26.mp3</guid>
+      <itunes:duration>00:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 27</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_27.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_27.mp3" length="136694" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_27.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 28</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_28.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_28.mp3" length="264158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_28.mp3</guid>
+      <itunes:duration>00:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 29</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_29.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_29.mp3" length="202286" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_29.mp3</guid>
+      <itunes:duration>00:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 30</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_30.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_30.mp3" length="105326" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_30.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 31</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_31.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_31.mp3" length="117038" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_31.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 32</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_32.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_32.mp3" length="129278" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_32.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 33</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_33.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_33.mp3" length="208670" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_33.mp3</guid>
+      <itunes:duration>00:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 34</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_34.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_34.mp3" length="111686" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_34.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 35</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_35.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_35.mp3" length="149798" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_35.mp3</guid>
+      <itunes:duration>00:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 36</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_36.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_36.mp3" length="111950" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_36.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 37</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_37.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_37.mp3" length="219206" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_37.mp3</guid>
+      <itunes:duration>00:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 38</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_38.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_38.mp3" length="167654" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_38.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 39</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_39.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_39.mp3" length="183398" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_39.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 40</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_40.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_40.mp3" length="130670" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_40.mp3</guid>
+      <itunes:duration>00:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 41</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_41.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_41.mp3" length="126806" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_41.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 42</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_42.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_42.mp3" length="83606" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_42.mp3</guid>
+      <itunes:duration>00:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 43</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_43.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_43.mp3" length="203678" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_43.mp3</guid>
+      <itunes:duration>00:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 44</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_44.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_44.mp3" length="180134" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_44.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 45</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_45.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_45.mp3" length="213950" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_45.mp3</guid>
+      <itunes:duration>00:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 46</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_46.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_46.mp3" length="196142" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_46.mp3</guid>
+      <itunes:duration>00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 47</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_47.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_47.mp3" length="286334" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_47.mp3</guid>
+      <itunes:duration>00:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 48</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_48.mp3.</description>
+      <pubDate>Sat, 03 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_48.mp3" length="125126" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_48.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 49</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_49.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_49.mp3" length="132662" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_49.mp3</guid>
+      <itunes:duration>00:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 50</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_50.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_50.mp3" length="256718" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_50.mp3</guid>
+      <itunes:duration>00:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 51</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_51.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_51.mp3" length="145862" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_51.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 52</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_52.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_52.mp3" length="165446" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_52.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 53</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_53.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_53.mp3" length="198494" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_53.mp3</guid>
+      <itunes:duration>00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 54</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_54.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_54.mp3" length="107894" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_54.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 55</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_55.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_55.mp3" length="178862" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_55.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 56</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_56.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_56.mp3" length="127190" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_56.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 57</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_57.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_57.mp3" length="261998" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_57.mp3</guid>
+      <itunes:duration>00:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 58</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_58.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_58.mp3" length="101438" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_58.mp3</guid>
+      <itunes:duration>00:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 59</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_59.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_59.mp3" length="142478" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_59.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 60</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_60.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_60.mp3" length="279974" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_60.mp3</guid>
+      <itunes:duration>00:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 61</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_61.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_61.mp3" length="299990" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_61.mp3</guid>
+      <itunes:duration>00:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 62</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_62.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_62.mp3" length="141278" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_62.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 63</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_63.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_63.mp3" length="211790" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_63.mp3</guid>
+      <itunes:duration>00:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 64</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_64.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_64.mp3" length="594710" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_64.mp3</guid>
+      <itunes:duration>01:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 65</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_65.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_65.mp3" length="376454" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_65.mp3</guid>
+      <itunes:duration>00:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 66</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_66.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_66.mp3" length="108494" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_66.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 67</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_67.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_67.mp3" length="108686" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_67.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 68</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_68.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_68.mp3" length="137150" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_68.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 69</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_69.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_69.mp3" length="170510" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_69.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 70</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_70.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_70.mp3" length="148598" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_70.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 71</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_71.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_71.mp3" length="101582" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_71.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 72</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_72.mp3.</description>
+      <pubDate>Sun, 04 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_72.mp3" length="191246" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_72.mp3</guid>
+      <itunes:duration>00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 73</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_73.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_73.mp3" length="154166" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_73.mp3</guid>
+      <itunes:duration>00:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 74</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_74.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_74.mp3" length="103742" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_74.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 75</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_75.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_75.mp3" length="126806" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_75.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 76</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_76.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_76.mp3" length="233678" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_76.mp3</guid>
+      <itunes:duration>00:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 77</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_77.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_77.mp3" length="178070" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_77.mp3</guid>
+      <itunes:duration>00:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 78</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_78.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_78.mp3" length="197942" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_78.mp3</guid>
+      <itunes:duration>00:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 79</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_79.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_79.mp3" length="210302" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_79.mp3</guid>
+      <itunes:duration>00:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 80</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_80.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_80.mp3" length="119294" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_80.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 81</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_81.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_81.mp3" length="117590" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_81.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 82</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_82.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_82.mp3" length="138110" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_82.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 83</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_83.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_83.mp3" length="165158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_83.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 84</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_84.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_84.mp3" length="177830" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_84.mp3</guid>
+      <itunes:duration>00:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 85</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_85.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_85.mp3" length="158414" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_85.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 86</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_86.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_86.mp3" length="145670" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_86.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 87</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_87.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_87.mp3" length="117158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_87.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 88</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_88.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_88.mp3" length="179078" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_88.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 89</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_89.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_89.mp3" length="124766" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_89.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 90</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_90.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_90.mp3" length="118790" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_90.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 91</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_91.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_91.mp3" length="170462" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_91.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 92</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_92.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_92.mp3" length="154742" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_92.mp3</guid>
+      <itunes:duration>00:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 93</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_93.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_93.mp3" length="144134" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_93.mp3</guid>
+      <itunes:duration>00:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 94</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_94.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_94.mp3" length="108638" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_94.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 95</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_95.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_95.mp3" length="117854" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_95.mp3</guid>
+      <itunes:duration>00:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 96</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_96.mp3.</description>
+      <pubDate>Mon, 05 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_96.mp3" length="143126" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_96.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 97</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_97.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_97.mp3" length="222758" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_97.mp3</guid>
+      <itunes:duration>00:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 98</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_98.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_98.mp3" length="184550" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_98.mp3</guid>
+      <itunes:duration>00:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 99</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_99.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_99.mp3" length="174302" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_99.mp3</guid>
+      <itunes:duration>00:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 100</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_100.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_100.mp3" length="165998" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_100.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 101</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_101.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_101.mp3" length="188582" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_101.mp3</guid>
+      <itunes:duration>00:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 102</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_102.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_102.mp3" length="129758" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_102.mp3</guid>
+      <itunes:duration>00:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 103</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_103.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_103.mp3" length="161102" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_103.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 104</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_104.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_104.mp3" length="164894" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_104.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 105</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_105.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_105.mp3" length="111830" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_105.mp3</guid>
+      <itunes:duration>00:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 106</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_106.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_106.mp3" length="125318" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_106.mp3</guid>
+      <itunes:duration>00:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 107</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_107.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_107.mp3" length="199718" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_107.mp3</guid>
+      <itunes:duration>00:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 108</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_108.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_108.mp3" length="138038" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_108.mp3</guid>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 109</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_109.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_109.mp3" length="229550" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_109.mp3</guid>
+      <itunes:duration>00:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 110</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_110.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_110.mp3" length="98918" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_110.mp3</guid>
+      <itunes:duration>00:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 111</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_111.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_111.mp3" length="163382" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_111.mp3</guid>
+      <itunes:duration>00:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 112</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_112.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_112.mp3" length="105326" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_112.mp3</guid>
+      <itunes:duration>00:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 113</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_113.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_113.mp3" length="162158" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_113.mp3</guid>
+      <itunes:duration>00:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evangelho de Tomé - Dito 114</title>
+      <description>Áudio do arquivo Evangelho_Tome_dito_114.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_114.mp3" length="219062" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/Evangelho_Tome_dito_114.mp3</guid>
+      <itunes:duration>00:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 2</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 2.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%202.mp3" length="816902" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%202.mp3</guid>
+      <itunes:duration>01:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 3</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 3.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%203.mp3" length="1387622" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%203.mp3</guid>
+      <itunes:duration>03:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 4</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 4.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%204.mp3" length="1123238" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%204.mp3</guid>
+      <itunes:duration>02:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 5</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 5.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%205.mp3" length="935822" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%205.mp3</guid>
+      <itunes:duration>02:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 6</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 6.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%206.mp3" length="1443398" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%206.mp3</guid>
+      <itunes:duration>03:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 7</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 7.mp3.</description>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%207.mp3" length="1122134" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%207.mp3</guid>
+      <itunes:duration>02:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 8</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 8.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%208.mp3" length="1523726" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%208.mp3</guid>
+      <itunes:duration>03:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 9</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 9.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%209.mp3" length="748790" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%209.mp3</guid>
+      <itunes:duration>01:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 10</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 10.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2010.mp3" length="1367462" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2010.mp3</guid>
+      <itunes:duration>03:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 11</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 11.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2011.mp3" length="1364270" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2011.mp3</guid>
+      <itunes:duration>03:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 12</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 12.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2012.mp3" length="1163102" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2012.mp3</guid>
+      <itunes:duration>02:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 13</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 13.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2013.mp3" length="1030094" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2013.mp3</guid>
+      <itunes:duration>02:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 14</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 14.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2014.mp3" length="1460030" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2014.mp3</guid>
+      <itunes:duration>03:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 15</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 15.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2015.mp3" length="1382078" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2015.mp3</guid>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 16</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 16.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2016.mp3" length="1435406" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2016.mp3</guid>
+      <itunes:duration>03:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 17</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 17.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2017.mp3" length="1246022" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2017.mp3</guid>
+      <itunes:duration>02:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 18</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 18.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2018.mp3" length="1048310" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2018.mp3</guid>
+      <itunes:duration>02:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 19</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 19.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2019.mp3" length="1273670" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2019.mp3</guid>
+      <itunes:duration>03:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 20</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 20.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2020.mp3" length="1267838" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2020.mp3</guid>
+      <itunes:duration>03:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 21</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 21.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2021.mp3" length="1286678" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2021.mp3</guid>
+      <itunes:duration>03:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 22</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 22.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2022.mp3" length="1226222" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2022.mp3</guid>
+      <itunes:duration>02:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 23</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 23.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2023.mp3" length="1497878" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2023.mp3</guid>
+      <itunes:duration>03:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 24</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 24.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2024.mp3" length="1529846" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2024.mp3</guid>
+      <itunes:duration>03:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 25</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 25.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2025.mp3" length="1265126" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2025.mp3</guid>
+      <itunes:duration>03:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 26</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 26.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2026.mp3" length="1191614" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2026.mp3</guid>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 27</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 27.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2027.mp3" length="1156070" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2027.mp3</guid>
+      <itunes:duration>02:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 28</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 28.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2028.mp3" length="1238606" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2028.mp3</guid>
+      <itunes:duration>02:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 29</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 29.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2029.mp3" length="1176734" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2029.mp3</guid>
+      <itunes:duration>02:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 30</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 30.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2030.mp3" length="1551902" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2030.mp3</guid>
+      <itunes:duration>03:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Provérbios - Capítulo 31</title>
+      <description>Áudio do arquivo PROVERBIOS CAPITULO 31.mp3.</description>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2031.mp3" length="1217486" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/PROVERBIOS%20CAPITULO%2031.mp3</guid>
+      <itunes:duration>02:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 1</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 1.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%201.mp3" length="1041590" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%201.mp3</guid>
+      <itunes:duration>02:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 2</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 2.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 01:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%202.mp3" length="1489598" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%202.mp3</guid>
+      <itunes:duration>03:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 3</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 3.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 02:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%203.mp3" length="1033934" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%203.mp3</guid>
+      <itunes:duration>02:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 4</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 4.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 03:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%204.mp3" length="1328462" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%204.mp3</guid>
+      <itunes:duration>03:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 5</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 5.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%205.mp3" length="1524854" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%205.mp3</guid>
+      <itunes:duration>03:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 6</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 6.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%206.mp3" length="1402742" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%206.mp3</guid>
+      <itunes:duration>03:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 7</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 7.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%207.mp3" length="1808606" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%207.mp3</guid>
+      <itunes:duration>04:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 8</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 8.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 07:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%208.mp3" length="1365422" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%208.mp3</guid>
+      <itunes:duration>03:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 9</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 9.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%209.mp3" length="1142030" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%209.mp3</guid>
+      <itunes:duration>02:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 10</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 10.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2010.mp3" length="1486046" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2010.mp3</guid>
+      <itunes:duration>03:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 11</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 11.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2011.mp3" length="1587086" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2011.mp3</guid>
+      <itunes:duration>03:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 12</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 12.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2012.mp3" length="1914662" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2012.mp3</guid>
+      <itunes:duration>04:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 13</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 13.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2013.mp3" length="1412894" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2013.mp3</guid>
+      <itunes:duration>03:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 14</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 14.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2014.mp3" length="2223230" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2014.mp3</guid>
+      <itunes:duration>05:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 15</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 15.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2015.mp3" length="1508078" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2015.mp3</guid>
+      <itunes:duration>03:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 16</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 16.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2016.mp3" length="2246174" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2016.mp3</guid>
+      <itunes:duration>05:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 17</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 17.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2017.mp3" length="1685558" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2017.mp3</guid>
+      <itunes:duration>04:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 18</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 18.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2018.mp3" length="1969814" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2018.mp3</guid>
+      <itunes:duration>04:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sabedoria - Capítulo 19</title>
+      <description>Áudio do arquivo SABEDORIA CAPITULO 19.mp3.</description>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2019.mp3" length="1830494" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://yourusername.github.io/spotify-podcast/SABEDORIA%20CAPITULO%2019.mp3</guid>
+      <itunes:duration>04:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
