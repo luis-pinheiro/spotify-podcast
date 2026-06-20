@@ -9,7 +9,7 @@ from mutagen.mp3 import MP3
 # CONFIGURATION
 # Modify these values to customize your podcast feed.
 # ==============================================================================
-BASE_URL = "https://yourusername.github.io/spotify-podcast/"  # MUST end with a slash '/'
+BASE_URL = "https://luis-pinheiro.github.io/spotify-podcast/"  # MUST end with a slash '/'
 FEED_TITLE = "Evangelho de Tomé, Eclesiastes, Provérbios e Sabedoria"
 FEED_DESCRIPTION = "Áudios gravados dos livros de Eclesiastes, Provérbios, Sabedoria e o Evangelho de Tomé."
 FEED_LINK = "https://yourusername.github.io/spotify-podcast/"
