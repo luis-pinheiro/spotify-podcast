@@ -14,10 +14,10 @@ FEED_TITLE = "Evangelho de Tomé, Eclesiastes, Provérbios e Sabedoria"
 FEED_DESCRIPTION = "Áudios gravados dos livros de Eclesiastes, Provérbios, Sabedoria e o Evangelho de Tomé."
 FEED_LINK = "https://yourusername.github.io/spotify-podcast/"
 FEED_LANGUAGE = "pt-BR"
-FEED_AUTHOR = "Luis"
-FEED_EMAIL = "luis@example.com"
+FEED_AUTHOR = "Luis Pinheiro"
+FEED_EMAIL = "luispinheiro35@hotmail.com"
 FEED_CATEGORY = "Religion & Spirituality"
-FEED_IMAGE = "https://yourusername.github.io/spotify-podcast/cover.jpg"  # Recommended 1400x1400 to 3000x3000px
+FEED_IMAGE = "https://luis-pinheiro.github.io/spotify-podcast/cover.jpg"  # Recommended 1400x1400 to 3000x3000px
 FEED_EXPLICIT = "no"  # "yes" or "no"
 OUTPUT_FILENAME = "podcast.xml"
 

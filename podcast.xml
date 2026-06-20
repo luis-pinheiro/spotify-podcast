@@ -7,13 +7,13 @@
     <description>Áudios gravados dos livros de Eclesiastes, Provérbios, Sabedoria e o Evangelho de Tomé.</description>
     <link>https://yourusername.github.io/spotify-podcast/</link>
     <language>pt-BR</language>
-    <itunes:image href="https://yourusername.github.io/spotify-podcast/cover.jpg"/>
+    <itunes:image href="https://luis-pinheiro.github.io/spotify-podcast/cover.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:author>Luis</itunes:author>
+    <itunes:author>Luis Pinheiro</itunes:author>
     <itunes:owner>
-      <itunes:name>Luis</itunes:name>
-      <itunes:email>luis@example.com</itunes:email>
+      <itunes:name>Luis Pinheiro</itunes:name>
+      <itunes:email>luispinheiro35@hotmail.com</itunes:email>
     </itunes:owner>
     <generator>Custom Python RSS Generator</generator>
     
